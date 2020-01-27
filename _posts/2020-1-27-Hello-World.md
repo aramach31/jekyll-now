@@ -7,7 +7,7 @@ I feel a sudden sense of accomplishment, having finally set up my own blog after
 
 I want to outline what I intend to do with this blog. Apart from it being an opaque window into my life, it shall also feature some factual nuggets from a very random part of the world. To begin with, maelstrom means "grinding current" in Dutch. Remember when we used to place water bottles beneath our chins and thrust it forward to marvel at the whirlpool inside? A maelstrom is just that, but more powerful. 
 
-![_config.yml]({{ site.baseurl }}/images/glasswhirlpool.jpg)
+                                   ![_config.yml]({{ site.baseurl }}/images/glasswhirlpool.jpg)
 
 I have a selfish reason for doing this though, to be completely honest. I want to devour more and more information that comes my way, in hopes that my retired quizzer makes a comeback. During the course of writing, I hope to learn and digest more than I possibly could have otherwise. Becoming more efficient at converting information to knowledge is my prime goal.
 
