@@ -12,4 +12,4 @@ Currently undergoing the journey of self discovery. I'll add stuff here once I g
 
 ### Contact me
 
-[aramach12@gmail](mailto:aramach12@gmail.com)
+[aramach12@gmail.com](mailto:aramach12@gmail.com)
