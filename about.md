@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A third-year Electrical and Electronics undergrad navigating life, one step at a time.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently undergoing the journey of self discovery. I'll add stuff here once I get to know 'more information' about myself. I do not have a cringy Instagram caption, so this can be excused hopefully.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[aramach12@gmail](mailto:aramach12@gmail.com)
