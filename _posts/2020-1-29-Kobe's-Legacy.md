@@ -1,5 +1,7 @@
-Am I Alone In This?
-===================
+---
+layout: post
+title: Am I Alone In This?
+---
 
 The world is reeling with Kobe's unfortunate death. Articles are emerging from all over, celebrating his life. A recurring element is his relentless dedication to the sport. I hope I get attached to something, anything, in the future. 
 
